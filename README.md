@@ -1,1 +1,2 @@
-"# dijkstra-algorithm" 
+# Dijkstra Algorithm 
+Djiksta Algorithm (shortest path)
